@@ -35,7 +35,7 @@ Replace the area embedding with the region represenation vetcor and run `HG_ST_l
 
 ## TASK 2:  Traffic Prediction Task ##
 The code of the ST-GCN is [https://github.com/VeritasYin/STGCN_IJCAI-18](https://github.com/VeritasYin/STGCN_IJCAI-18)
-ST-GCN predicts traffic in three stages, namely 15 minutes.
+ST-GCN predicts traffic in one stage, namely 15 minutes.
 Run `main.py`.
 
 
