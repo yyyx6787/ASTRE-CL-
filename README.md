@@ -27,7 +27,7 @@ The dimensionality d of region representation is set as 96 . The depth of convol
 ## Spatial-Temporal Adversarial Graph Model (STAG) Training and Obtaining Region Representations ##
     train_edit_auto.py   # training for obatining region representations
 
-## TASK1: Crime Prediction Task ##
+## TASK 1: Crime Prediction Task ##
 The code of the ST-SHN is [https://github.com/akaxlh/ST-SHN](https://github.com/akaxlh/ST-SHN)
 
 Replace the area embedding with the region represenation vetcor and run `HG_ST_labcode.py`.
