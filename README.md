@@ -1,4 +1,4 @@
-# Multi-View Spatial-Temporal Graph Learning with Adversarial Contrastive Adaptation #
+# Spatial-Temporal Graph Learning with Adversarial Contrastive Adaptation #
 This is the implementation of Multi-View Spatial-Temporal Graph Learning with Adversarial Contrastive Adaptation in the following paper:
 
 ## Requirements ##
